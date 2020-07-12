@@ -7,3 +7,6 @@ echo "thire line from online";
 
 echo "forth line from online";
 
+
+echo "forth line from cli";
+
